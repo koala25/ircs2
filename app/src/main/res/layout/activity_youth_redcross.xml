@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About Youth Red Cross"
+            android:textAllCaps="true"
+            android:textColor="#F2372C"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- The Youth Red Cross movement is a group movement organized for students in colleges." />
+
+        <com.codesgood.views.JustifiedTextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Its members age group is 18 to 30 years." />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- The registration fee for colleges is Rs.1500 and the student membership fee is Rs.50/- per annum." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Colleges have to send 30% of the membership fee Collected to the Indian Red Cross Society,Karnataka State Branch. 70% of the membership fee Collected has to be retained by the respective colleges to carry out the Youth Red Cross Activities." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Every College has a Programme Officer and each University has a Nodal Officer." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Each College has to open a separate Bank Accounts for Youth Red Cross, to be jointly operated by the prinicipal and programme officer." />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Our Aim"
+            android:textAllCaps="true"
+            android:textColor="#F2372C"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="---------------------------" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="1) Promotion of Health" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Awareness about HIV / AIDS" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Awareness campaign on hazards of drug addiction" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Awareness about Health programs" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="2) Service to others" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Providing First Aid for wounded / sick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Relief work during emergencies" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Dissemination of Red Cross Movement" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="3) Developing Friendship" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- National Integration Camps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Communal harmony" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Literacy campaign / youth exchange program" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Understanding and accepting of Civil responsibilities" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="4) The number of Colleges registered till 31st March 2014 -1077" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="5) The number of Students enrolled as members till 31st March 2014 – 6,37,911." />
+
+    </LinearLayout>
+
+</ScrollView>

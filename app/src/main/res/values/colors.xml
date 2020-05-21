@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2372C</color>
+    <color name="colorPrimaryDark">#F2372c</color>
+    <color name="colorAccent">#F2372C</color>
+    <color name="backcolor">#FFA1A8</color>
+    <color name="red">#a61a1d</color>
+    <color name="otherred">#9d1019</color>
+    <color name="gray">#d3d3d3</color>
+
+    <color name = "likeBtnGray">#747474</color>
+    <color name = "likeBtnAccent">#F44336</color>
+</resources>

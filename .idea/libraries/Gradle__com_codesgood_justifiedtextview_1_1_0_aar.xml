@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codesgood:justifiedtextview:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94f86f731954e6216e380b288ba3d651/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94f86f731954e6216e380b288ba3d651/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codesgood/justifiedtextview/1.1.0/aad663518622a4741718eb213d0080e3c74b77f5/justifiedtextview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

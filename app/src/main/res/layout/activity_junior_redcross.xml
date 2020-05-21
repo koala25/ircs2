@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".junior_red_cross">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About Junior Red Cross"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#F2372C"
+            android:text="------------------------------------------------------------------------------"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="5dp"/>
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- The Junior Red Cross movement originated in Canada in 1914." />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- It was established in India in 1925." />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- It was established in Karnataka in 1926" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Its motto is I Serve." />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Its members are children in the agr group of 12 to 17 years." />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- The Registration Fee for Schools is Rs.100/- per annum" />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Our Aim"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="---------------------------"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="5dp"/>
+
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="1) Promotion of Health" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Practice of health habits" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Cleanliness of school premises" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Health awareness campaign" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="2) Service to others" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Voluntary service during Disaster Management" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Providing First Aid to the wounded / sick" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Adoption of a nearby slum for literacy campain" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="3) Developing Friendship" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Participation in Junior Red Cross camps" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Sending greetings" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Organizing integration camps" />
+
+    </LinearLayout>
+
+</ScrollView>

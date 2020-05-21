@@ -1,0 +1,96 @@
+<resources>
+
+
+    <string name="app_name">IRCS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_account_details">helli</string>
+
+
+    <string name="facebook_app_id">466348260765740</string>
+    <string name="fb_login_protocol_scheme">fb466348260765740</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string-array name="states">
+        <item>Rajasthan</item>
+        <item>Karnataka</item>
+        <item>Andhra</item>
+        <item>Delhi</item>
+        <item>Uttarakhand</item>
+    </string-array>
+
+    <string-array name="dayselect">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturaday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="volunteer">
+        <item>Junior Red Cross</item>
+        <item>Youth Red Cross</item>
+        <item>Environment</item>
+        <item>Health and Awareness</item>
+        <item>Disaster Assistance</item>
+        <item>First Aid Assistance</item>
+        <item>FundRaising</item>
+    </string-array>
+
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="districts">
+        <item>Bangalore</item>
+        <item>Karnataka</item>
+        <item>Andhra</item>
+        <item>Delhi</item>
+        <item>Uttarakhand</item>
+    </string-array>
+
+    <string-array name="groups">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="title_activity_blood_bank_fragment">BloodBankFragment</string>
+
+
+    <string name="donate_details"><b>Bank Address :</b> Vijaya Bank, Gandhinagar Branch.</string>
+    <string name="account_details">181500301000273 </string>
+    <string name="IFRC">IFSC / RTGS CODE - VIJB0001815</string>
+    <string name="donate_charity"> The Red cross renders its humanitarian services with the help and cooperation of people at all levels of the society. The society accepts donations through demand drafts/ cheques. Under section 80G of the Income Tax Act, 1961, donors can receive tax rebates for donations to Indian Red Cross Society, Karnataka State Branch. The tax rebates can be claimed while filing the annual income tax return.
+        \n \n Donors wishing to make a donation may donate through demand drafts / cheques to be drawn in favoiur of INDIAN RED CROSS SOCIETY RELIEF ACCOUNT and same may be sent to the address given below or remittance can also be made directly to the following: </string>
+    <string name="more_info"><b>FOR MORE INFORMATION PLEASE CONTACT</b>
+    \n Indian Red Cross Society, Karnataka State Branch, No.26, 1st Floor, Red Cross Bhavan, Race Course Road, Bengaluru-560001</string>
+    <string name="new_post_desc">Add Description...</string>
+    <string name="new_post_btn">Post Blog</string>
+
+    <string name="setup_name_hint">Your Name...</string>
+    <string name="setup_save_btn">Save Account Settings</string>
+    <string name="setup_name_hint_text">Your Name ...</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

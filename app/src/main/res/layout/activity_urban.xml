@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About Urban Welfare Planning"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:fontFamily="@font/roboto"
+            android:text="In 1969 Karnataka Red Cross Society with collaboration of Family Welfare Department started a unit in Bruhath Bengaluru Mahanagara Palike Maternity Hospital, Chamarajpet, Sirsi Circle, Bengaluru." />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Programme and activities"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Counseling and Guidance" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="-  Family Planning for married couples" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Pre and post pregnancy problems" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Pre natal and Infant Care" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- ANC checkup [Pregnant Women]" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Birth Control Measures" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Insertion of Female Copper T" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Medical Abortion" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Distribution of Oral pills and Condoms" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Contraceptive injection" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="-  Medical Assistance and Service" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="-  Self-Motivated Family Planning Camps" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_marginRight="10dp"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="-  aparoscopic Tubectomy and Tubectomy operation for females" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="-  Vasectomy operation for Males" />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Community Awareness"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="-------------------------------------------------------------------------------" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Pulse Polio Programme" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Communicable and Non Communicable diseases" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Routine immunization day and Outreach immunization Camps" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Special outreach camps in HRA" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- TB/HIV Awareness Programme" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Mental Health, UHND" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Adolescent awareness" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Breast feeding awareness" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Regular School Health Checkups" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Providing DOTS (Direct Observation of Treatment Short Course) to Tuberculosis patients" />
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Rubella Vaccination campaign" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

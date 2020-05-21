@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About Blood Donation Camps"
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Indian Red Cross Society, Karnataka State Branch conducts and participates in almost all the Blood Donation Camps." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Karnataka Red Cross Blood Bank is equipped with the most advanced equipments for Blood Donation and storage in Karnataka." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Karnataka Red Cross Blood Bank ensures the following Check lists for every Blood Donation Camp." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Donor Eligibility"
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="-----------------------------------------------------------------" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Should be in the age group of 18 to 60 years." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginBottom="4dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Should have a minimum weight of 50 Kgs and should be Healthy." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginBottom="4dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Should have good breakfast or lunch before blood donation." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Should Read the Donor Form carefully and Fill it up." />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Arrangements Made"
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="----------------------------------------------------------------------" />
+
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- A Clean and well ventilated hall to accommodate 6 to 8 cots(For 50 to 75 donors)." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Drinking Water, Fruit Juice,Disposable Cups, Paper plates for Donor Snacks,Spoons, Napkins etc." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Minimum 4 Tables,15 to 20 chairs for Medical team and few chairs for Donor resting." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- All the above said arrangements should be done 30 minutes before the commencement of the Camp." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- 4 to 6 Volunteers to help the Blood Bank team during the camp." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- There should be a minimum 0f 75 voluntary blood donors in a camp." />
+
+        <com.codesgood.views.JustifiedTextView
+
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Should give a wide publicity about the Blood donation camp to mobilize the voluntary donors." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:textColor="#F2372C"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Facilities made by red cross"
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="-------------------------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="4dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Doctors, Technicians, Beds, Cots,Pillows,disposable needles and sachets, Consumables for drawing blood etc." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="4dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Motivation Facilities can be provided on request." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="4dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- IEC/Posters and Pamphlets can be provided." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Every Donor will be presented with CERTIFICATE OF APPRECIATION." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- A Special CERTIFICATE TO THE ORGANIZATION." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Rs.30/- per donor towards donor refreshment will be reimbursed with in fort-night through cheque to the organization. " />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:fontFamily="@font/roboto"
+            android:text="Karnataka Red Cross Blood Bank, is proud to be recognized and to be an approved Blood bank to supply Packed Red Cells to 12 districts i.e Bagalkote,Bellary,Bidar, Bijapur,Chamaraja Nagar, Chitradurga, Davangere, Gulbarga, Kolar,Koppal,Raichur and Yadgir to meet the needs of rural population, specially anemic pregnant women and even the unborn kids, thank the donors." />
+    </LinearLayout>
+
+</ScrollView>

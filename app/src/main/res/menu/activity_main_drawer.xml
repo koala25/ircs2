@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/other_activities"
+            android:icon="@drawable/ic_remove_red_eye_black_24dp"
+            android:title="Activities" />
+
+
+        <item
+            android:id="@+id/nav_dc"
+            android:icon="@drawable/ic_location_city_black_24dp"
+            android:title="District Chapters" />
+
+
+        <item
+            android:id="@+id/nav_tc"
+            android:icon="@drawable/ic_domain_black_24dp"
+            android:title="Taluka Chapters" />
+
+        <item
+            android:id="@+id/nav_jac"
+            android:icon="@drawable/ic_business_center_black_24dp"
+            android:title="Jan Aushadhi Center" />
+
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="Donation" />
+
+        <item
+            android:id="@+id/nav_au"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="About Us" />
+
+
+        <item
+            android:id="@+id/nav_cu"
+            android:icon="@drawable/ic_local_phone_black_24dp"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_emc"
+            android:icon="@drawable/ic_add_alert_black_24dp"
+            android:title="Emergency Contact Number" />
+
+        <item
+            android:id="@+id/nav_bloodb1"
+            android:title="Blood Bank">
+            <menu>
+                <item
+                    android:id="@+id/nav_bloodb"
+                    android:icon="@drawable/ic_group_add_black_24dp"
+                    android:title="Register as Donor" />
+                <item
+                    android:id="@+id/nav_bbl"
+                    android:icon="@drawable/ic_description_black_24dp"
+                    android:title="Blood bank List" />
+
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_getinvolved"
+            android:title="Get Involved">
+            <menu>
+                <item
+                    android:id="@+id/nav_volunteer"
+                    android:icon="@drawable/ic_event_available_black_24dp"
+                    android:title="Volunteer Registration" />
+                <item
+                    android:id="@+id/nav_intern"
+                    android:icon="@drawable/ic_laptop_mac_black_24dp"
+                    android:title="Intern with IRCS KSB" />
+
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_developer"
+                android:icon="@drawable/ic_developer_mode_black_24dp"
+                android:title="Developers" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

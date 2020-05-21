@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About Disaster Response"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Disasters are becoming more complex, with increasingly long-term consequences as they strike countries with economic problems or political instability, and weaken already fragile public services such as health, water and sanitation. Recurrent crises, such as floods year after year, give people and their crops no time to recover. " />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Disasters disproportionately affect the poor: over 90 per cent of the total of disaster-related deaths occur in developing countries, where the economic losses they cause hit far harder than in industrialized nations and can wipe out years of economic development. " />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="As a result, the impact of disasters has increased dramatically in the last few decades in terms of the number of people affected and the length of time they are affected for. This trend is expected to keep rising in coming years. " />
+
+        <com.codesgood.views.JustifiedTextView
+
+            android:layout_marginRight="10dp"
+
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Bringing emergency relief to refugees and victims of poverty and disasters has been a key activity of the Red Cross and its member Red Cross and Red Crescent Societies for the last several years. The emergency phase of a relief operation aims to provide life-saving assistance; shelter, water, food and basic health care are the immediate needs; along with a sense of humanity and a sign that someone cares. Subsequent needs include reconstruction and rehabilitation. These needs can continue for several years, particularly in the case of refugees and victims of socio-economic collapse. " />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="What we have done"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="During earthquake at Gujarat in the year 2001 mobilized Rs.1.00 crore in terms of relief material to the victims of Earthquake." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Indian Red Cross Society, Karnataka State Branch was awarded Gold Medal from Indian Red Cross Society, National Head quarters,New Delhi" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="During Tsunami in 2004, provided Rs. 65.00 worth relief materials to Tamilnadu, Andrapradesh and Andaman and Nicobar." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Deputed teams of Doctors, to attend the victims of Disaster and also to prevent epidemic diseases." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Deputed 250 volunteers of Bharat Seva Dal to Tamilnadu and Andaman and Nicobar to assist in relief work." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Mobilized Rs.3.7 Crores – provided 15 lakhs to Sri Lanka, Rs.57,31,756/- to Andra Pradesh, Rs.5 lakhs to Kerala 2,85,47,650/- to Tamilnadu towards Relief projects for Tsunami victims." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="During Earthquake at Jammu and Kashmir Indian Red Cross Society, Karnataka State Branch Sent Rs.1,15,000/- in terms of Cash and 190 Tents to Jammu and Kashmir." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Rs.3,50,000/- was sent to Bagalkote, Belgaum, Gulbarga towards flood relief." />
+
+    </LinearLayout>
+
+</ScrollView>

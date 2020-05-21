@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About TB Control Project"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="--------------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="Indian Red Cross Society, Karnataka State Branch started TB Control Project in January 2009 funded by USAID and UK aid through IFRC in association with Tuberculosis Association of India; Central TB Division, Ministry of Health and Family Welfare, Govt. of India; WHO and IRCS. Indian Red Cross Society, NHQ has allotted TB Project to Karnataka State Branch and is operating in Mandya, Tumkur and Bangalore Urban Districts. " />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="During 2016 totally 100 TB patients were helped with nutritious food and 82 patients were treated successfully. TB day was observed on 24th March 2017 and a drama was enacted on TB awareness. A Jatha was also organized on this occasion." />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Project Objectives"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="-----------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- To provide care and supports and direct observation for 50 most vulnerable retreatment T B patients in each district." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="-  To increase community awareness on TB, MDR and TB/HIV through project advocacy. Information, education, communication and social mobilization." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:layout_marginRight="10dp"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- To reduce stigma and discrimination towards T B and HIV patients and their family members. " />
+
+        <TextView
+            android:textColor="#F2372C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="Programmees and activities"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="-----------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="4dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Community Advocacy meeting/ Education session"/>
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Awareness Campaign "/>
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Distribution of Care and Support packages to needy Cat –II patients"/>
+
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/roboto"
+            android:text="- Individual and Family Counselling session for T B patients and their family members"/>
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:lineSpacingMultiplier="1.3"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto"
+            android:layout_marginBottom="30dp"
+            android:text="It has been possible to put more than 149 of the CAT – II patients in the project areas back on treatment and thereby preventing possible MDR, Distribution of Care and Support packages effective in making the patient adhere DOTS without default in targeted districts Bengaluru, Mandya and Tumkur."/>
+
+    </LinearLayout>
+
+</ScrollView>

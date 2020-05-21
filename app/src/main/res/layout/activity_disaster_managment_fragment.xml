@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="About Disaster Management"
+            android:textAllCaps="true"
+            android:textColor="#F2372C"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="---------------------------------------------------------------------------------------------" />
+
+        <com.codesgood.views.JustifiedTextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="People affected by disasters have urgent immediate needs which must be assessed and addressed consequently in the fulfillment of its mandate. Indian Red Cross Society must have trained volunteers. IRCS, KSB have taken initiative to provide training to Youth Red Cross units, IRCS members, youth club members, NSS Officers, Sevadal, Police Department personnel, Volunteers, Civil Defence and home guards. Trainings are conducted with the financial support from Revenue Department, (Disaster Management) Government of Karnataka." />
+
+        <com.codesgood.views.JustifiedTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="Training has been conducted for a batch of 50 Volunteers in 29 Districts drawn fromdifferent walks of Life in Disaster Response and First Aid,during 2013-14." />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center_horizontal"
+            android:text="-------------------------------------------------------" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/headland_one"
+            android:gravity="center_horizontal"
+            android:paddingTop="4dp"
+            android:text="Main objectives"
+            android:textAllCaps="true"
+            android:textColor="#F2372C"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:text="-------------------------------------------------------" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Initiate, formalize and develop District Disaster Response Team" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Initiation to develop Block Disaster Response Team" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Make available trained human resource during disaster across the state" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Introduce the concept and share the experience among the participants" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto"
+            android:lineSpacingMultiplier="1.3"
+            android:text="- Plan out the future capacity building training events for the DDRT team" />
+
+    </LinearLayout>
+
+</ScrollView>
