@@ -34,7 +34,10 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new disaster_response_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
+
+                
 
             }
         });
@@ -43,6 +46,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new serv_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -52,6 +56,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new disaster_management_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -61,6 +66,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new blood_donation_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -70,6 +76,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new youth_redCross_Fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -79,6 +86,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new juniorRedCross_Fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -88,6 +96,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new urban_Welfare_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -98,6 +107,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new tb_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -107,6 +117,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new optical_center_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -117,6 +128,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new internship_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }
@@ -126,6 +138,7 @@ public class OtherActivitiesFragment extends Fragment {
             public void onClick(View v) {
                 FragmentTransaction fr = getFragmentManager().beginTransaction();
                 fr.replace(R.id.main, new boca_fragment());
+                fr.addToBackStack(null);
                 fr.commit();
 
             }

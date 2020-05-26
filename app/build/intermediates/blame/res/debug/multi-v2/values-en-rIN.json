@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Study at Bits\\PS-1 New Android App\\IRCS app (Latest) 15.07.19\\final--feed_done-Kshitij\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sanjay Verma\\.gradle\\caches\\transforms-2\\files-2.1\\41516ab08bf1aec451c560919c91c8e9\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\sunny\\.gradle\\caches\\transforms-2\\files-2.1\\0b6ce802b0f7b376cf37fa9d855ea277\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sanjay Verma\\.gradle\\caches\\transforms-2\\files-2.1\\c409e38a2f3a5c7de9dda5ec5859b079\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\sunny\\.gradle\\caches\\transforms-2\\files-2.1\\093329718cfa32a9316f5d607c63549e\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
