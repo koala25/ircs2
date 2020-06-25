@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".LoginActivity">
 
-    <RelativeLayout
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -21,23 +21,11 @@
                 android:layout_width="match_parent"
 
                 android:layout_height="200dp"
-                android:background="@drawable/group_photo_ircs"
+                android:background="@drawable/login_wave"
 
                 android:gravity="center_horizontal"
                 android:paddingTop="20dp"
-                android:paddingBottom="20dp">
-                <!--
-
-                <ImageView
-
-                    android:layout_width="150dp"
-
-                    android:layout_height="150dp"
-                    android:src="@drawable/redcrosslogok" />
-                    -->
-
-
-            </LinearLayout>
+                android:paddingBottom="20dp"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -55,19 +43,19 @@
 
                     <ImageView
                         android:layout_width="20dp"
-                        android:layout_height="20dp"
-
-                        android:src="@drawable/message" />
+                        android:layout_height="40dp"
+                        android:src="@drawable/email_icon" />
 
                     <EditText
                         android:id="@+id/mail"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:background="#00000000"
+                        android:background="@drawable/roundborder"
                         android:hint="Email Address"
                         android:inputType="text"
                         android:letterSpacing="0.1"
+                        android:padding="16dp"
                         android:textColor="#475269"
                         android:textColorHint="#475269"
                         android:textSize="16dp" />
@@ -76,8 +64,8 @@
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="1dp"
-                    android:background="#4a5a71"></LinearLayout>
+                    android:layout_height="0dp"
+                    android:background="#000000"></LinearLayout>
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -88,17 +76,18 @@
 
                     <ImageView
                         android:layout_width="20dp"
-                        android:layout_height="20dp"
+                        android:layout_height="50dp"
 
-                        android:src="@drawable/pswd" />
+                        android:src="@drawable/password_icon" />
 
                     <EditText
                         android:id="@+id/password"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
-                        android:background="#00000000"
+                        android:background="@drawable/roundborder"
                         android:hint="Password"
+                        android:padding="16dp"
                         android:inputType="textPassword"
                         android:letterSpacing="0.1"
                         android:textColor="#475269"
@@ -107,10 +96,7 @@
                 </LinearLayout>
 
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="1dp"
-                    android:background="#4a5a71"></LinearLayout>
+
 
 
             </LinearLayout>
@@ -118,35 +104,50 @@
             <TextView
 
                 android:id="@+id/sup"
-                android:layout_width="match_parent"
+                android:layout_width="316dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="bottom"
-                android:layout_marginLeft="60dp"
-                android:layout_marginTop="40dp"
-                android:layout_marginRight="60dp"
-                android:layout_marginBottom="20dp"
-                android:background="#F2372C"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="70dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/round_bg"
                 android:gravity="center"
                 android:letterSpacing="0.2"
                 android:onClick="Onclick_submit"
                 android:padding="16dp"
                 android:text="Login"
                 android:textColor="#d9e5f3"
+                android:textSize="18sp"
                 android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OR"
+                android:layout_marginLeft="200dp"
+                android:layout_marginRight="70dp"
+                />
+
+
 
             <TextView
                 android:id="@+id/lin"
-                android:layout_width="match_parent"
+                android:layout_width="316dp"
                 android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="70dp"
+                android:layout_marginBottom="1dp"
+                android:background="@drawable/round_bg"
                 android:gravity="center"
-
-                android:letterSpacing="0.1"
-
-
+                android:letterSpacing="0.2"
                 android:onClick="onclick_Create_newAccount"
+                android:padding="16dp"
                 android:text="Create new account"
-                android:textColor="#475269" />
-
+                android:textColor="#d9e5f3"
+                android:textSize="18sp"
+                android:textStyle="bold" />
 
             <com.facebook.login.widget.LoginButton
                 android:id="@+id/login_button"
@@ -154,23 +155,23 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginLeft="60dp"
-                android:layout_marginTop="30dp"
+                android:layout_marginTop="20dp"
                 android:layout_marginRight="60dp"
 
-                android:layout_marginBottom="30dp"
+                android:layout_marginBottom="10dp"
                 android:paddingTop="16dp"
                 android:paddingBottom="16dp"
 
-                android:textSize="15sp" />
-
+                android:textSize="18sp" />
 
             <LinearLayout
+                android:id="@+id/google_signin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
                 android:layout_marginRight="60dp"
-                android:background="#FFFFFF"
 
+                android:background="#FFFFFF"
                 android:orientation="horizontal"
                 android:paddingTop="16dp"
                 android:paddingBottom="16dp">
@@ -182,12 +183,13 @@
                     android:src="@drawable/google" />
 
                 <TextView
-                    android:onClick="onClickGoogle_Signup"
-
                     android:layout_width="match_parent"
+
                     android:layout_height="wrap_content"
-                    android:text="Sign in"
-                    android:gravity="center_horizontal"
+                    android:background="#FFFFFF"
+                    android:paddingLeft="20dp"
+                    android:onClick="onClickGoogle_Signup"
+                    android:text="Continue with Google"
                     android:textSize="18sp"
                     android:textStyle="bold"
 
@@ -209,6 +211,7 @@
         </LinearLayout>
 
 
-    </RelativeLayout>
+    </LinearLayout>
+
 
 </ScrollView>

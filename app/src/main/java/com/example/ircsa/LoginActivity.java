@@ -79,7 +79,10 @@ public class LoginActivity extends AppCompatActivity {
                 Log.d(TAG, "facebook:onError", error);
                 // ...
             }
+            
+            
         });
+
 
     }
 
@@ -90,7 +93,9 @@ public class LoginActivity extends AppCompatActivity {
 //        // Pass the activity result back to the Facebook SDK
 //        mCallbackManager.onActivityResult(requestCode, resultCode, data);
 //    }
-
+        
+    
+    
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         mCallbackManager.onActivityResult(requestCode, resultCode, data);

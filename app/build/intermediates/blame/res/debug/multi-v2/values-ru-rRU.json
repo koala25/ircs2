@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sunny\\.gradle\\caches\\transforms-2\\files-2.1\\09b4fa92fbcc855189a7dbff7d3d5cc1\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "source": "C:\\Users\\sunny\\.gradle\\caches\\transforms-2\\files-2.1\\50ac07f32c2f9f79c73a5cc91ef90447\\android-image-cropper-2.5.1\\res\\values-ru-rRU\\values-ru-rRU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

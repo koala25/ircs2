@@ -318,6 +318,55 @@ public class MainActivity extends AppCompatActivity
     public void goTo_kar_linkedin (View view) {
         goToUrl ("https://www.linkedin.com/in/kartikeya-aryan-agarwal-466869167/");
     }
+    public void goTo_kb_insta (View view) {
+        goToUrl ("https://www.instagram.com/kbtg25/");
+    }
+    public void goTo_kb_fb (View view) {
+        goToUrl ("https://www.facebook.com/kushal.bakliwal.31");
+    }
+    public void goTo_kb_linkedin (View view) {
+        goToUrl ("https://www.linkedin.com/in/kushal-bakliwal-973828167/");
+    }
+
+    public void goTo_sidg_insta (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_sidg_fb (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_sidg_linkedin (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+
+    public void goTo_swt_insta (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_swt_fb (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_swt_linkedin (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+
+    public void goTo_hab_insta (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_hab_fb (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_hab_linkedin (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+
+    public void goTo_hig_insta (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_hig_fb (View view) {
+        goToUrl ("https://www.google.com/");
+    }
+    public void goTo_hig_linkedin (View view) {
+        goToUrl ("https://www.google.com/");
+    }
 
     public void goToSu (View view) {
         goToUrl ( "http://superuser.com/");
