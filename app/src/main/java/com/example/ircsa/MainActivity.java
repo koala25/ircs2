@@ -1,6 +1,8 @@
 package com.example.ircsa;
 
 import android.Manifest;
+import android.content.ClipData;
+import android.content.ClipboardManager;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Build;
@@ -18,10 +20,13 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.widget.EditText;
 import android.widget.Spinner;
+import android.widget.Toast;
+
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -30,6 +35,7 @@ public class MainActivity extends AppCompatActivity
 
     private FirebaseAuth mAuth;
     private CircleImageView setupImage;
+    ClipboardManager clipboardManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +43,7 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         FirebaseUser currentuser = FirebaseAuth.getInstance().getCurrentUser();
         mAuth = FirebaseAuth.getInstance();
+        clipboardManager = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
 
          if(currentuser == null){
             Log.i("Output","Not Logged in");
@@ -148,6 +155,10 @@ public class MainActivity extends AppCompatActivity
             Intent login_activityIntent=new Intent(MainActivity.this,LoginActivity.class);
             startActivity(login_activityIntent);
             finish();
+        }else if(id == R.id.nav_share) {
+            ClipData clipdata = ClipData.newPlainText("text","Check out the new IRCS_Karnataka app now available on play store!!! https://play.google.com/store/apps/details?id=com.ircs.ircsa");
+            clipboardManager.setPrimaryClip(clipdata);
+            Toast.makeText(getApplicationContext(),"Share link copied to Clipboard",Toast.LENGTH_SHORT).show();
         }
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
