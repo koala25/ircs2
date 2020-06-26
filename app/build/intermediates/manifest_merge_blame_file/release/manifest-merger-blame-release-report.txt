@@ -1,0 +1,412 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ircsa"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.firebase:firebase-database:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+14-->[com.google.firebase:firebase-database:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\bcc7159bc006c280878bef99563fe549\firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\753d2d838c80b1c4b7a9d46f48990be2\firebase-measurement-connector-impl-17.0.2\AndroidManifest.xml:24:5-68
+15-->[com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\753d2d838c80b1c4b7a9d46f48990be2\firebase-measurement-connector-impl-17.0.2\AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:26:5-110
+16-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:26:22-107
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:26:22-79
+18
+19    <application
+19-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:10:5-79:19
+20        android:allowBackup="true"
+20-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:11:9-35
+21        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+21-->[com.android.support:support-compat:28.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\57ec45c9b5e0c1f6a21eac064e202ea3\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+22        android:hardwareAccelerated="false"
+22-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:12:9-44
+23        android:icon="@mipmap/ic_launcher_latest"
+23-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:13:9-50
+24        android:label="@string/app_name"
+24-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:14:9-41
+25        android:largeHeap="true"
+25-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:15:9-33
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:16:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:17:9-35
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:18:9-40
+29        <activity android:name="com.example.ircsa.Main0Activity" >
+29-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:19:9-25:20
+29-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:19:19-48
+30            <intent-filter>
+30-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:20:13-24:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:21:17-69
+31-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:21:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:23:17-77
+33-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:23:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.ircsa.AccountSetup" />
+36-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:26:9-50
+36-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:26:19-47
+37        <activity
+37-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:27:9-30:59
+38            android:name="com.example.ircsa.BloodBankFragment"
+38-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:28:13-46
+39            android:label="@string/title_activity_blood_bank_fragment"
+39-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:29:13-71
+40            android:theme="@style/AppTheme.NoActionBar" />
+40-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:30:13-56
+41        <activity
+41-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:31:9-36:20
+42            android:name="com.example.ircsa.MainActivity"
+42-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:32:13-41
+43            android:label="@string/app_name"
+43-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:33:13-45
+44            android:theme="@style/AppTheme.NoActionBar" >
+44-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:34:13-56
+45        </activity>
+46        <activity
+46-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:37:9-41:59
+47            android:name="com.example.ircsa.NewPostActivity"
+47-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:38:13-44
+48            android:label="Add new post"
+48-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:39:13-41
+49            android:parentActivityName="com.example.ircsa.MainActivity"
+49-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:40:13-55
+50            android:theme="@style/AppTheme.NoActionBar" />
+50-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:41:13-56
+51        <activity
+51-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:42:9-44:58
+52            android:name="com.example.ircsa.CommentsActivity"
+52-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:43:13-45
+53            android:parentActivityName="com.example.ircsa.MainActivity" />
+53-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:44:13-55
+54        <activity
+54-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:45:9-47:59
+55            android:name="com.example.ircsa.LoginActivity"
+55-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:46:13-42
+56            android:label="Login to IRCS Karnataka App" />
+56-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:47:13-56
+57        <activity
+57-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:48:9-50:57
+58            android:name="com.example.ircsa.create_new_account"
+58-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:49:13-47
+59            android:label="Welcome to IRCS Karnataka" />
+59-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:50:13-54
+60        <activity android:name="com.example.ircsa.NewsFragment" />
+60-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:51:9-50
+60-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:51:19-47
+61
+62        <meta-data
+62-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:53:9-55:55
+63            android:name="com.facebook.sdk.ApplicationId"
+63-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:54:13-58
+64            android:value="@string/facebook_app_id" />
+64-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:55:13-52
+65        <meta-data
+65-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:56:9-58:57
+66            android:name="preloaded_fonts"
+66-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:57:13-43
+67            android:resource="@array/preloaded_fonts" />
+67-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:58:13-54
+68
+69        <activity
+69-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:60:9-63:48
+70            android:name="com.facebook.FacebookActivity"
+70-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:61:13-57
+71            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+71-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:62:13-96
+72            android:label="@string/app_name"
+72-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:63:13-45
+73            android:theme="@style/com_facebook_activity_theme" />
+73-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8741c5f96666ea1e83af97d6d72dc9f8\facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+74        <activity
+74-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:64:9-75:20
+75            android:name="com.facebook.CustomTabActivity"
+75-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:65:13-58
+76            android:exported="true" >
+76-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:66:13-36
+77            <intent-filter>
+77-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:67:13-74:29
+78                <action android:name="android.intent.action.VIEW" />
+78-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:68:17-69
+78-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:68:25-66
+79
+80                <category android:name="android.intent.category.DEFAULT" />
+80-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:70:17-76
+80-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:70:27-73
+81                <category android:name="android.intent.category.BROWSABLE" />
+81-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:71:17-78
+81-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:71:27-75
+82
+83                <data android:scheme="@string/fb_login_protocol_scheme" />
+83-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:73:17-75
+83-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:73:23-72
+84            </intent-filter>
+85            <intent-filter>
+85-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8741c5f96666ea1e83af97d6d72dc9f8\facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+86                <action android:name="android.intent.action.VIEW" />
+86-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:68:17-69
+86-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:68:25-66
+87
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:70:17-76
+88-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:70:27-73
+89                <category android:name="android.intent.category.BROWSABLE" />
+89-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:71:17-78
+89-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:71:27-75
+90
+91                <data
+91-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:73:17-75
+92                    android:host="cct.com.example.ircsa"
+93                    android:scheme="fbconnect" />
+93-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:73:23-72
+94            </intent-filter>
+95        </activity>
+96        <activity
+96-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:76:9-78:59
+97            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+97-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:77:13-76
+98            android:theme="@style/Base.Theme.AppCompat" />
+98-->C:\Users\sunny\AndroidStudioProjects\ircs-bangalore-app\app\src\main\AndroidManifest.xml:78:13-56
+99        <activity android:name="com.facebook.CustomTabMainActivity" />
+99-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8741c5f96666ea1e83af97d6d72dc9f8\facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+99-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8741c5f96666ea1e83af97d6d72dc9f8\facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+100        <activity
+100-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:23:9-29:75
+101            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+101-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:24:13-85
+102            android:excludeFromRecents="true"
+102-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:25:13-46
+103            android:exported="true"
+103-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:26:13-36
+104            android:launchMode="singleInstance"
+104-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:27:13-48
+105            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+105-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:28:13-102
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:29:13-72
+107
+108        <service
+108-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:31:9-35:19
+109            android:name="com.google.firebase.components.ComponentDiscoveryService"
+109-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:31:18-89
+110            android:exported="false" >
+110-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:31:13-37
+111            <meta-data
+111-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:32:13-34:85
+112                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+112-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:33:17-109
+113                android:value="com.google.firebase.components.ComponentRegistrar" />
+113-->[com.google.firebase:firebase-auth:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\d0f3195c18866b1351f0f726b01c6fcc\firebase-auth-16.0.4\AndroidManifest.xml:34:17-82
+114            <meta-data
+114-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\28cd925cedba8c8798ec90f54d6d08e9\firebase-firestore-17.1.2\AndroidManifest.xml:15:13-17:85
+115                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+115-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\28cd925cedba8c8798ec90f54d6d08e9\firebase-firestore-17.1.2\AndroidManifest.xml:16:17-111
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\28cd925cedba8c8798ec90f54d6d08e9\firebase-firestore-17.1.2\AndroidManifest.xml:17:17-82
+117            <meta-data
+117-->[com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\753d2d838c80b1c4b7a9d46f48990be2\firebase-measurement-connector-impl-17.0.2\AndroidManifest.xml:28:13-30:85
+118                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+118-->[com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\753d2d838c80b1c4b7a9d46f48990be2\firebase-measurement-connector-impl-17.0.2\AndroidManifest.xml:29:17-139
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\753d2d838c80b1c4b7a9d46f48990be2\firebase-measurement-connector-impl-17.0.2\AndroidManifest.xml:30:17-82
+120            <meta-data
+120-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:32:13-34:85
+121                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+121-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:33:17-96
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:34:17-82
+123        </service>
+124
+125        <activity
+125-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:23:9-27:75
+126            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+126-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:24:13-93
+127            android:excludeFromRecents="true"
+127-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:25:13-46
+128            android:exported="false"
+128-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:26:13-37
+129            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+129-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:27:13-72
+130        <!--
+131            Service handling Google Sign-In user revocation. For apps that do not integrate with
+132            Google Sign-In, this service will never be started.
+133        -->
+134        <service
+134-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:33:9-36:110
+135            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+135-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:34:13-89
+136            android:exported="true"
+136-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:35:13-36
+137            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+137-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\b7bce8f9b2ee975574a548d4a5c33d90\play-services-auth-16.0.0\AndroidManifest.xml:36:13-107
+138
+139        <receiver
+139-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:29:9-33:20
+140            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+140-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:30:13-85
+141            android:enabled="true"
+141-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:31:13-35
+142            android:exported="false" >
+142-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:32:13-37
+143        </receiver>
+144        <receiver
+144-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:34:9-42:20
+145            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+145-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:35:13-100
+146            android:enabled="true"
+146-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:36:13-35
+147            android:exported="true"
+147-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:37:13-36
+148            android:permission="android.permission.INSTALL_PACKAGES" >
+148-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:38:13-69
+149            <intent-filter>
+149-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:39:13-41:29
+150                <action android:name="com.android.vending.INSTALL_REFERRER" />
+150-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:40:17-79
+150-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:40:25-76
+151            </intent-filter>
+152        </receiver>
+153
+154        <service
+154-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:44:9-47:40
+155            android:name="com.google.android.gms.measurement.AppMeasurementService"
+155-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:45:13-84
+156            android:enabled="true"
+156-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:46:13-35
+157            android:exported="false" />
+157-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:47:13-37
+158        <service
+158-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:48:9-52:72
+159            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+159-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:49:13-87
+160            android:enabled="true"
+160-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:50:13-35
+161            android:exported="false"
+161-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:51:13-37
+162            android:permission="android.permission.BIND_JOB_SERVICE" />
+162-->[com.google.firebase:firebase-analytics:16.0.4] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\86dba359b31e197271356339b7b89956\firebase-analytics-16.0.4\AndroidManifest.xml:52:13-69
+163
+164        <receiver
+164-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:37:9-44:20
+165            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+165-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:38:13-78
+166            android:exported="true"
+166-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:39:13-36
+167            android:permission="com.google.android.c2dm.permission.SEND" >
+167-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:40:13-73
+168            <intent-filter>
+168-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:41:13-43:29
+169                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+169-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:42:17-81
+169-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:42:25-78
+170            </intent-filter>
+171        </receiver>
+172        <!--
+173             FirebaseInstanceIdService performs security checks at runtime,
+174             no need for explicit permissions despite exported="true"
+175        -->
+176        <service
+176-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:50:9-56:19
+177            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+177-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:51:13-77
+178            android:exported="true" >
+178-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:52:13-36
+179            <intent-filter android:priority="-500" >
+179-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:53:13-55:29
+179-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:53:28-51
+180                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+180-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:54:17-80
+180-->[com.google.firebase:firebase-iid:17.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\daada8f8d46c9e203c624c382e55789d\firebase-iid-17.0.3\AndroidManifest.xml:54:25-77
+181            </intent-filter>
+182        </service>
+183
+184        <activity
+184-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+185            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+185-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+186            android:exported="false"
+186-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+187            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+187-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\657d13c63fe4e6047e9f7036a4c44742\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+188
+189        <provider
+189-->[com.google.firebase:firebase-common:16.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+190            android:name="com.google.firebase.provider.FirebaseInitProvider"
+190-->[com.google.firebase:firebase-common:16.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+191            android:authorities="com.example.ircsa.firebaseinitprovider"
+191-->[com.google.firebase:firebase-common:16.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+192            android:exported="false"
+192-->[com.google.firebase:firebase-common:16.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+193            android:initOrder="100" />
+193-->[com.google.firebase:firebase-common:16.0.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\8b91b353147986f8fc69553c8366fd07\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+194
+195        <meta-data
+195-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\bbca376469b8d309e4827a990d03acc5\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+196            android:name="com.google.android.gms.version"
+196-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\bbca376469b8d309e4827a990d03acc5\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+197            android:value="@integer/google_play_services_version" />
+197-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\bbca376469b8d309e4827a990d03acc5\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+198        <!--
+199         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+200         with the application context. This config is merged in with the host app's manifest,
+201         but there can only be one provider with the same authority activated at any given
+202         point; so if the end user has two or more different apps that use Facebook SDK, only the
+203         first one will be able to use the provider. To work around this problem, we use the
+204         following placeholder in the authority to identify each host application as if it was
+205         a completely different provider.
+206        -->
+207        <provider
+207-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+208            android:name="com.facebook.internal.FacebookInitProvider"
+208-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+209            android:authorities="com.example.ircsa.FacebookInitProvider"
+209-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+210            android:exported="false" />
+210-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+211
+212        <receiver
+212-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+213            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+213-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+214            android:exported="false" >
+214-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+215            <intent-filter>
+215-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+216                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+216-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+216-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97bfbb3158af507fedc9d77fcea85ac0\facebook-core-5.15.3\AndroidManifest.xml:48:25-92
+217            </intent-filter>
+218        </receiver>
+219
+220        <meta-data
+220-->[com.android.support:exifinterface:26.1.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97d7dc060bd74d050af999a2f9b83f69\exifinterface-26.1.0\AndroidManifest.xml:23:9-25:38
+221            android:name="android.support.VERSION"
+221-->[com.android.support:exifinterface:26.1.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97d7dc060bd74d050af999a2f9b83f69\exifinterface-26.1.0\AndroidManifest.xml:24:13-51
+222            android:value="26.1.0" />
+222-->[com.android.support:exifinterface:26.1.0] C:\Users\sunny\.gradle\caches\transforms-2\files-2.1\97d7dc060bd74d050af999a2f9b83f69\exifinterface-26.1.0\AndroidManifest.xml:25:13-35
+223    </application>
+224
+225</manifest>

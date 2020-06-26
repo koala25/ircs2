@@ -3,6 +3,7 @@ package com.example.ircsa;
 import android.Manifest;
 import android.content.ClipData;
 import android.content.ClipboardManager;
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Build;
@@ -18,6 +19,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
@@ -27,6 +29,8 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
+
+import java.util.StringTokenizer;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -245,52 +249,170 @@ public class MainActivity extends AppCompatActivity
 
     };
 
+    private void displayToast(String s){
+        Toast.makeText(this,s,Toast.LENGTH_LONG).show();
+    }
+
+    private boolean checkAnswer(String s,int i){
+        StringTokenizer ST=new StringTokenizer(s);
+        if (s.isEmpty()) {
+            displayToast("Enter answer to Question "+i);
+            return true;
+        }
+        else if(ST.countTokens()<50){
+            displayToast("Minimum words in answer to Q"+i+" should be 50");
+            return true;
+        }
+        else
+            return false;
+    }
+
     public void internRegister(View view) {
         final EditText nameField = (EditText) findViewById(R.id.fname);
         String name = nameField.getText().toString();
+        if(name.isEmpty()){
+            displayToast("Enter First Name");
+            return;
+        }
 
         final EditText nameField1 = (EditText) findViewById(R.id.lname);
         String name1 = nameField1.getText().toString();
+        if(name1.isEmpty()){
+            displayToast("Enter Last Name");
+            return;
+        }
 
         final EditText nameField2 = (EditText) findViewById(R.id.mn);
         String name2 = nameField2.getText().toString();
+        if(name2.isEmpty()){
+            displayToast("Enter mobile number");
+            return;
+        }
+        else if(name2.length()!=10){
+            displayToast("Enter a valid mobile number");
+            return;
+        }
 
         final EditText nameField3 = (EditText) findViewById(R.id.amn);
         String name3 = nameField3.getText().toString();
+        if(name3.isEmpty()){
+            displayToast("Enter alternate mobile number");
+            return;
+        }
+        else if(name3.length()!=10){
+            displayToast("Enter a valid alternate mobile number");
+            return;
+        }
 
         final EditText nameField4 = (EditText) findViewById(R.id.age);
         String name4 = nameField4.getText().toString();
+        if(name4.isEmpty()){
+            displayToast("Enter age");
+            return;
+        }
+        else if(Integer.parseInt(name4)>=60){
+            displayToast("Not an eligible age for internship");
+            return;
+        }
 
         final EditText nameField5 = (EditText) findViewById(R.id.dob);
         String name5 = nameField5.getText().toString();
+        if(name5.isEmpty()){
+            displayToast("Enter date of birth");
+            return;
+        }
 
         final EditText nameField7 = (EditText) findViewById(R.id.pa);
         String name7 = nameField7.getText().toString();
+        if(name7.isEmpty()){
+            displayToast("Enter permanent address");
+            return;
+        }
 
         final EditText nameField8 = (EditText) findViewById(R.id.email);
         String name8 = nameField8.getText().toString();
+        if(name8.isEmpty()){
+            displayToast("Enter email address");
+            return;
+        }
+        else if(!(android.util.Patterns.EMAIL_ADDRESS.matcher(name8).matches())){
+            displayToast("Enter a valid email address");
+            return;
+        }
 
         final EditText nameField9 = (EditText) findViewById(R.id.q1);
         String name9 = nameField9.getText().toString();
+        if(checkAnswer(name9,1)){
+            return;
+        }
 
         final EditText nameField10 = (EditText) findViewById(R.id.q2);
         String name10 = nameField10.getText().toString();
+        if(checkAnswer(name10,2)){
+            return;
+        }
 
         final EditText nameField11 = (EditText) findViewById(R.id.q3);
         String name11 = nameField11.getText().toString();
+        if(checkAnswer(name11,3)){
+            return;
+        }
 
         final EditText nameField12 = (EditText) findViewById(R.id.q4);
         String name12 = nameField12.getText().toString();
+        if(checkAnswer(name12,4)){
+            return;
+        }
 
         final EditText nameField13 = (EditText) findViewById(R.id.q5);
         String name13 = nameField13.getText().toString();
+        if(checkAnswer(name13,5)){
+            return;
+        }
 
         final Spinner feedbackSpinner = (Spinner) findViewById(R.id.district);
         String feedbackType = feedbackSpinner.getSelectedItem().toString();
 
         writeIntern(name, name1, name2, name3, name4, name5,name7, name8,feedbackType, name9, name10, name11, name12, name13);
+
+        displayToast("Intern sucessfully registered");
+
+        nameField.setText("");
+        nameField1.setText("");
+        nameField2.setText("");
+        nameField3.setText("");
+        nameField4.setText("");
+        nameField5.setText("");
+        nameField7.setText("");
+        nameField8.setText("");
+        nameField9.setText("");
+        nameField10.setText("");
+        nameField11.setText("");
+        nameField12.setText("");
+        nameField13.setText("");
+    }
+    public void copyEmailId(View view){
+        ClipboardManager clipboard = (ClipboardManager)getSystemService(Context.CLIPBOARD_SERVICE);
+        ClipData clip = ClipData.newPlainText("Email ID", "yrckar@gmail.com");
+        clipboard.setPrimaryClip(clip);
+        Toast.makeText(getApplicationContext(), " Email ID copied to clipboard", Toast.LENGTH_LONG).show();
     }
 
+    public void dialUs1(View view){
+        Button dialUs=(Button)findViewById(R.id.phoneNumber1Button);
+        String s="tel:080-22264205";
+        Intent intent=new Intent(Intent.ACTION_DIAL);
+        intent.setData(Uri.parse(s));
+        startActivity(intent);
+    }
+
+    public void dialUs2(View view){
+        Button dialUs=(Button)findViewById(R.id.phoneNumber1Button);
+        String s="tel:080-22268435";
+        Intent intent=new Intent(Intent.ACTION_DIAL);
+        intent.setData(Uri.parse(s));
+        startActivity(intent);
+    }
     //developers Page
 
     public void goTo_n_insta (View view) {

@@ -191,12 +191,17 @@
             android:layout_height="wrap_content"
             xmlns:card_view="http://schemas.android.com/apk/res-auto"
             card_view:cardCornerRadius="16dp"
-            card_view:cardElevation="5dp">
+            card_view:cardElevation="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+
+            android:layout_marginBottom="16dp">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="15dp"
+
                 android:orientation="vertical"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp">
@@ -234,6 +239,7 @@
                     android:text="Mobile - +08482 233127 \n                +08482 233126" />
 
             </LinearLayout>
+
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
@@ -251,7 +257,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="15dp"
-
                 android:orientation="vertical"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp">
@@ -343,7 +348,63 @@
                     android:text="Mobile - +91 9448470235 \n                +0831 2407244" />
 
             </LinearLayout>
+        </android.support.v7.widget.CardView>
 
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            card_view:cardCornerRadius="16dp"
+            card_view:cardElevation="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:text="Bijapur district"
+                    android:textAllCaps="true"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sri.S.G.Muranal \nSecretary"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Address - Indian Red Cross Society \n                   Mandya District Branch \n                   P.E.S. Engineering  College Road, Near Zilla Panchayath \n                   Mandya-571 401" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Email - " />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="5dp"
+                    android:text="Mobile - +91 9480534153" />
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <!--<android.support.v7.widget.CardView>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -386,7 +447,7 @@
                     android:text="Mobile - +91 9480534153" />
 
             </LinearLayout>
-        </android.support.v7.widget.CardView>
+        </android.support.v7.widget.CardView>-->
 
         <android.support.v7.widget.CardView
             android:layout_width="match_parent"
@@ -440,8 +501,18 @@
                     android:text="Mobile - +91 9449178896\n                +08226 222067" />
 
             </LinearLayout>
+        </android.support.v7.widget.CardView>
 
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            card_view:cardCornerRadius="16dp"
+            card_view:cardElevation="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
 
+            android:layout_marginBottom="16dp">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -485,6 +556,63 @@
 
             </LinearLayout>
 
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            card_view:cardCornerRadius="16dp"
+            card_view:cardElevation="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:text="Chitradurga district"
+                    android:textAllCaps="true"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sri. Mazaharulla N \nSecretary"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Address - Indian Red Cross Society \n                   Mandya District Branch \n                   P.E.S. Engineering  College Road, Near Zilla Panchayath \n                   Mandya-571 401" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Email - " />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="5dp"
+                    android:text="Mobile - +91 7899187128" />
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+    <!--<android.support.v7.widget.CardView>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -526,7 +654,7 @@
                     android:text="Mobile - +91 7899187128" />
 
             </LinearLayout>
-        </android.support.v7.widget.CardView>
+        </android.support.v7.widget.CardView>-->
 
         <android.support.v7.widget.CardView
             android:layout_width="match_parent"

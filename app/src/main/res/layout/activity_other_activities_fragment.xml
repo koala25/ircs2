@@ -44,6 +44,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="First Aid" />
 
 
@@ -77,6 +78,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Disaster Response" />
 
 
@@ -111,6 +113,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Serv" />
 
 
@@ -151,7 +154,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
-                        android:text="Disaster Management" />
+                        android:autoSizeTextType="uniform"
+                        android:text="Disaster Manage" />
 
 
                 </LinearLayout>
@@ -184,6 +188,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Blood Donation" />
 
 
@@ -218,6 +223,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Youth Red Cross" />
 
 
@@ -258,6 +264,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Junior Red Cross" />
 
 
@@ -291,6 +298,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Urban welfare" />
 
 
@@ -325,6 +333,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="TB control Project" />
 
 
@@ -365,6 +374,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Optical Center" />
 
 
@@ -398,6 +408,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Internship" />
 
 
@@ -432,6 +443,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
+                        android:autoSizeTextType="uniform"
                         android:text="Boca" />
 
 

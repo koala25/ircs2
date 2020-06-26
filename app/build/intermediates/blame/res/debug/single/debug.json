@@ -228,10 +228,6 @@
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
     },
     {
-        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sidenavigation_bg.png.flat",
-        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\sidenavigation_bg.png"
-    },
-    {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_red_eye_black_24dp.xml.flat",
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_remove_red_eye_black_24dp.xml"
     },
@@ -522,6 +518,10 @@
     {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\font_headland_one.xml.flat",
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\headland_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sidenavigation_bg.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\sidenavigation_bg.jpg"
     },
     {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blood_bank_fragment.xml.flat",

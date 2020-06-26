@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ambulance.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ambulance.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_serv2.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\serv2.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_img_6347.JPG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\img_6347.JPG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_instagram_drawable_file.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\instagram_drawable_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_app.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\app.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile_placeholder.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_optical.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\optical.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_latest.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_latest.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_internship.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\internship.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_instagram_color.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\instagram_color.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_yrc.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\yrc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_default_profilepic2.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\default_profilepic2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_junior_red_cross.PNG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\junior_red_cross.PNG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_urban_welfare.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\urban_welfare.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_disaster_response.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_disaster_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_intern_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_intern_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_comment_send.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-anydpi\\comment_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_fire2.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\fire2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_action_like_gray.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\action_like_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_arvo_regular.ttf.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\arvo_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_arvo_bold.ttf.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\arvo_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_blood_donation_camp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\blood_donation_camp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_house.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\house.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_internship_icon.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\internship_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_comment_send.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-mdpi\\comment_send.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_donate.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_urban.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_urban.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_image_placeholder.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_content_blood_bank_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\content_blood_bank_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_latest.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_latest.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_phone_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_phone_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_serv_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_serv_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_fb_icon_color.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\fb_icon_color.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_kshitij.jpeg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\kshitij.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_domain_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_domain_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_nikhila2.PNG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\nikhila2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_emergency_no.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_emergency_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_blog_list_item.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\blog_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_fax.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\fax.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_usrusr.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\usrusr.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_action_comment_icon.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\action_comment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_comment_send.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-xhdpi\\comment_send.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_like_btn_gray_round.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\like_btn_gray_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_disaster_relief.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\disaster_relief.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_developer_mode_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_developer_mode_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_comment_send.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-xxhdpi\\comment_send.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_comments.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_img_6364.JPG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\img_6364.JPG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_boca_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_boca_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_donate.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\donate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_latest.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_latest.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_redcrosslogok.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\redcrosslogok.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_pmbjp03.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\pmbjp03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_event_available_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_event_available_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_business_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_business_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_email.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_junior_redcross.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_junior_redcross.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_roboto.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_disaster.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\disaster.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_bbl.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_bbl.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_other_activities_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_other_activities_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_news_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_news_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_action_like_accent.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\action_like_accent.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_location_city_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_location_city_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_refresh_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_cu.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_cu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_youth_redcross.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_youth_redcross.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_firstaid.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\firstaid.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_sidenavigation_bg.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\sidenavigation_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_jan_aushadi.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_jan_aushadi.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_wave.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\login_wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_latest.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_latest.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_bloodbank.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\bloodbank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_comment_list_item.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\comment_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_post_placeholder.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\post_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_emergency.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\emergency.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_print_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_print_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_laptop_mac_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_laptop_mac_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_like_btn_gray.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\like_btn_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_local_phone_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_local_phone_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_blood_bank_fragment_drawer.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\menu\\activity_blood_bank_fragment_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_facebook_logo.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_volunteer_registration.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_volunteer_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_people_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_people_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_tb_control_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_tb_control_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_blood_bank_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_blood_bank_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_roundborder.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\roundborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_allerta.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\allerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_disaster_managment_fragment.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_disaster_managment_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_children.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\children.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_phone.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_linkedin.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_rounded_button2.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\rounded_button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_account_balance_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_account_balance_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_volunteer.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\volunteer.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_headland_one.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\headland_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_roboto_thin.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\font_arvo_italic.ttf.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\arvo_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_description_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_description_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_new_post.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_new_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_remove_red_eye_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_remove_red_eye_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_google_icon2.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\google_icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_fb3.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\fb3.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_donors_page.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_donors_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_email_icon.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_rounded_button1.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\rounded_button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_tb.PNG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\tb.PNG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_kushal.jpeg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\kushal.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_group_photo_ircs.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\group_photo_ircs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_karthik.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\karthik.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_message.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_police.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\police.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_developers.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_developers.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_optical.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v24\\optical.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_add_alert_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_add_alert_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_background.jpg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_password_icon.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_taluka_center.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_taluka_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_google.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_mail_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_mail_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_beenhere_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_beenhere_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_optical_location.PNG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v21\\optical_location.PNG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_img_6401.JPG.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\img_6401.JPG"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_pswd.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\pswd.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_account_setup.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_account_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_group_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_group_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_business_center_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_business_center_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_district_banks.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_district_banks.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_background.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_comment_send.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-hdpi\\comment_send.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_blood_donation.jpeg.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\blood_donation.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_phonemob.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\phonemob.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ayush3.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ayush3.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_latest.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_latest.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main0.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_main0.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_optical_center.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\layout\\activity_optical_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\menu_blood_bank.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\menu\\blood_bank.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_fb_logo.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\fb_logo.png"
+    }
+]
