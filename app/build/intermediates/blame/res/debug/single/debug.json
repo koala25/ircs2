@@ -24,12 +24,12 @@
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-hdpi\\comment_send.png"
     },
     {
-        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_optical.png.flat",
-        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v24\\optical.png"
-    },
-    {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\font_arvo_italic.ttf.flat",
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\font\\arvo_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_optical.png.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable-v24\\optical.png"
     },
     {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_refresh_black_24dp.xml.flat",
@@ -238,6 +238,10 @@
     {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance.jpg.flat",
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ambulance.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_bg.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\shadow_bg.xml"
     },
     {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action_comment_icon.png.flat",

@@ -1273,6 +1273,7 @@ drawable roundborder
 drawable rounded_button1
 drawable rounded_button2
 drawable serv2
+drawable shadow_bg
 drawable side_nav_bar
 drawable sidenavigation_bg
 drawable tb
@@ -1486,7 +1487,6 @@ id link6
 id listMode
 id list_item
 id lname
-id login_button
 id logo
 id mail
 id mail_signup

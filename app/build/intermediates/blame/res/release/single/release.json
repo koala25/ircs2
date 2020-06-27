@@ -476,6 +476,10 @@
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\rounded_button2.xml"
     },
     {
+        "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_shadow_bg.xml.flat",
+        "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\shadow_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_account_balance_black_24dp.xml.flat",
         "source": "C:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\src\\main\\res\\drawable\\ic_account_balance_black_24dp.xml"
     },

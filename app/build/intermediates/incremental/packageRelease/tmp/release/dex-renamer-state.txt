@@ -1,4 +1,4 @@
-#Fri Jun 26 15:01:14 IST 2020
+#Sat Jun 27 02:47:24 IST 2020
 base.0=C\:\\Users\\sunny\\AndroidStudioProjects\\ircs-bangalore-app\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.1=classes2.dex
 renamed.1=classes2.dex

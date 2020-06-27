@@ -1273,6 +1273,7 @@ drawable roundborder
 drawable rounded_button1
 drawable rounded_button2
 drawable serv2
+drawable shadow_bg
 drawable side_nav_bar
 drawable sidenavigation_bg
 drawable tb
@@ -1444,7 +1445,6 @@ id gender
 id ghost_view
 id glide_custom_view_target_tag
 id gone
-id google_signin
 id group_divider
 id groups
 id home
@@ -1487,7 +1487,6 @@ id link6
 id listMode
 id list_item
 id lname
-id login_button
 id logo
 id mail
 id mail_signup
