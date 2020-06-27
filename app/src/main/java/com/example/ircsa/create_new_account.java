@@ -7,7 +7,9 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -16,6 +18,10 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class create_new_account extends AppCompatActivity {
+    public void onBackPressed(){
+        this.startActivity(new Intent(create_new_account.this,LoginActivity.class));
+
+    }
 
     private EditText email_signup;
     private EditText password_signup;
@@ -31,7 +37,6 @@ public class create_new_account extends AppCompatActivity {
         email_signup=(EditText)findViewById(R.id.mail_signup);
         password_signup=(EditText)findViewById(R.id.password_signup);
         conf_password_signup=(EditText)findViewById(R.id.confirm_password_signup);
-
     }
     public void onSubmit_signup(View view)
     {
@@ -48,7 +53,8 @@ public class create_new_account extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful())
                         {
-                            Log.i("firebase_newAccount","USer added to database");
+                            Log.i("firebase_newAccount","User added to database");
+                            Toast.makeText(create_new_account.this,"You have successfully created your account",Toast.LENGTH_LONG).show();
                             Intent side_navigationIntent=new Intent(create_new_account.this,AccountSetup.class);
                             startActivity(side_navigationIntent);
                             finish();
@@ -57,7 +63,7 @@ public class create_new_account extends AppCompatActivity {
                         else
                         {
                             String error_message=task.getException().getMessage();
-                            Toast.makeText(create_new_account.this,"Error:"+error_message,Toast.LENGTH_LONG);
+                            Toast.makeText(create_new_account.this,"Error:"+error_message,Toast.LENGTH_LONG).show();
                             Log.i("firebase_newAccount",error_message);
 
                         }
@@ -66,7 +72,7 @@ public class create_new_account extends AppCompatActivity {
 
             }
             else{
-                Toast.makeText(create_new_account.this,"Password and confirm password doesn't match",Toast.LENGTH_LONG);
+                Toast.makeText(create_new_account.this,"Password and confirm password doesn't match",Toast.LENGTH_LONG).show();
             }
         }
     }

@@ -50,7 +50,13 @@ import java.util.Map;
 import de.hdodenhof.circleimageview.CircleImageView;
 import id.zelory.compressor.Compressor;
 
+
 public class AccountSetup extends AppCompatActivity {
+    public void onBackPressed(){
+        super.onBackPressed();
+        finish();
+
+    }
 
     private CircleImageView setupImage;
     private Uri mainImageURI = null;
@@ -154,8 +160,16 @@ public class AccountSetup extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 final String username = setupName.getText().toString();
+                if(TextUtils.isEmpty(username))
+                {
+                    Toast.makeText(AccountSetup.this, "Enter your Name", Toast.LENGTH_LONG).show();
+                }
+                else if(mainImageURI == null)
+                {
+                    Toast.makeText(AccountSetup.this, "Upload profile picture", Toast.LENGTH_LONG).show();
+                }
 
-                if(!TextUtils.isEmpty(username) && mainImageURI != null){
+                else if(!TextUtils.isEmpty(username) && mainImageURI != null){
 
                     setupProgress.setVisibility(View.VISIBLE);
                     if (isChanged) {

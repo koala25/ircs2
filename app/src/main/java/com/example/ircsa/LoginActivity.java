@@ -59,7 +59,7 @@ public class LoginActivity extends AppCompatActivity {
         txtImage = findViewById(R.id.setup_image);
 
         mCallbackManager = CallbackManager.Factory.create();
-        LoginButton loginButton = (LoginButton) findViewById(R.id.login_button);
+        /*LoginButton loginButton = (LoginButton) findViewById(R.id.login_button);
         loginButton.setReadPermissions("email", "public_profile");
         loginButton.registerCallback(mCallbackManager, new FacebookCallback<LoginResult>() {
             @Override
@@ -79,12 +79,12 @@ public class LoginActivity extends AppCompatActivity {
                 Log.d(TAG, "facebook:onError", error);
                 // ...
             }
-            
-            
-        });
+            */
+
+        };
 
 
-    }
+
 
 //    @Override
 //    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -93,9 +93,9 @@ public class LoginActivity extends AppCompatActivity {
 //        // Pass the activity result back to the Facebook SDK
 //        mCallbackManager.onActivityResult(requestCode, resultCode, data);
 //    }
-        
-    
-    
+
+
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         mCallbackManager.onActivityResult(requestCode, resultCode, data);

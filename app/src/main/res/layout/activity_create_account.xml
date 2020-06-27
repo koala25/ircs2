@@ -171,7 +171,7 @@
                 android:textColor="#d9e5f3"
                 android:textStyle="bold" />
 
-            <TextView
+           <!-- <TextView
                 android:id="@+id/lin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -181,7 +181,7 @@
 
                 android:onClick="onClick_Already_Account"
                 android:text="Already have an Account ?"
-                android:textColor="#475269" />
+                android:textColor="#475269" />-->
 
 
         </LinearLayout>

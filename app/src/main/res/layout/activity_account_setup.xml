@@ -14,6 +14,7 @@
         android:layout_marginTop="80dp"
         android:layout_marginEnd="8dp"
         android:src="@drawable/default_profilepic2"
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/setup_progress" />
